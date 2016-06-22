@@ -8,7 +8,7 @@
 
 1. 首先安装sqlmap，传送门：http://sqlmap.org/
 
-2. 将sqlmap.py加入到path中（在cmd中输入sqlmap.py不会报找不到文件）
+2. 将sqlmap.py所在目录加入到path中（在cmd中输入sqlmap.py不会报找不到文件）
 
 3. 下载依赖的jar包： commons-io-2.4.jar，放置到burpsuite java 插件的classpath下，burpsuite中配置路径为：extender-->options-->Java Environment
 
